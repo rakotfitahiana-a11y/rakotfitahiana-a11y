@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🚀 Hello, moi c'est Henintsoa !
 
-<!--
-**rakotfitahiana-a11y/rakotfitahiana-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un **étudiant en informatique** basé à Antananarivo, passionné par les systèmes, les réseaux et le développement.
 
-Here are some ideas to get you started:
+### 🎓 Mon Parcours Académique
+*   **CNTEMAD :** Actuellement en **4ème année** d'informatique.
+*   **Diplôme :** Titulaire d'une **Licence en Administration Système et Réseau Informatique**.
+*   **École 42 Antananarivo :** Étudiant actif, actuellement au **Milestone 2**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projets en cours (42 Antananarivo)
+Voici les projets sur lesquels je travaille actuellement ou que j'ai récemment validés :
+*   **Born2beroot :** Configuration d'un serveur sécurisé sous Debian avec sudo, SSH et LVM.
+*   **Amaze-ing :** Exploration de la création de labyrinthes et d'algorithmes.
+*   **Python Modules :** Apprentissage approfondi du langage Python et de ses modules.
+
+### 💻 Compétences Techniques
+*   **Systèmes :** Administration Linux (Debian), Sécurité réseau.
+*   **Langages :** C, Python (en cours), SQL.
+*   **Réseaux :** Configuration et sécurisation d'infrastructures.
+
+### 📫 Me contacter
+*   **Email :** rakotfitahiana@gmail.com
+*   **Ville :** Antananarivo, Madagascar
